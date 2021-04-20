@@ -8,6 +8,10 @@ posts the least.
  
 Additionally, this aggregates your keywords (5 max) and finds the most common titles of how companies will list their job titles.
 
+
+Saves results to your current working directory.
+
+
 Seeing only 25 listings at a time works, but takes too long to find anything good. How about 500 posts with corresponding links
 direct to the job posting and to the company? See a quick snippet about the company, and their location.
 This filers direct to Chicago, IL, and also includes any opportunities listed as remote.
