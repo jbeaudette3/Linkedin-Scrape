@@ -3,6 +3,7 @@
 """
 Please note: script does not work anymore. I'm not sure if Linkedin blocked my IP address, or changed their backend.
 """
+
 Scrape using python requests and beautiful soup, organized with pandas dataframe
 
 Job searching is frustrating, especially when some companies spam the job boards to appear at the top of the list.
